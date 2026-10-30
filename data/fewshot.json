@@ -1,0 +1,126 @@
+[
+  {
+    "id": "13864751",
+    "dialogue": "Jared: hey can i come tonight to bring the books?\nEd: i won't be home. Ann?\nAnn: yeah i'll be there\nJared: great. 8?\nAnn: yeah \nJared: ok i'll be there",
+    "summary": "Jared will come to Ann at 8 pm to bring the books.",
+    "speakers": [
+      "Jared",
+      "Ed",
+      "Ann"
+    ],
+    "n_turns": 6,
+    "n_words": 31,
+    "structured": {
+      "summary": "Jared will come to Ann at 8 pm to bring the books.",
+      "participants": [
+        "Jared",
+        "Ed",
+        "Ann"
+      ],
+      "key_points": [
+        "Jared wants to bring the books tonight",
+        "Ed will not be home",
+        "Ann will be home"
+      ],
+      "decisions": [
+        "Jared will come at 8 pm"
+      ],
+      "action_items": [
+        {
+          "owner": "Jared",
+          "task": "Bring the books to Ann",
+          "due": "tonight at 8"
+        }
+      ]
+    }
+  },
+  {
+    "id": "13828239",
+    "dialogue": "Maverick: Hi Marcus! Got time for Skype today?\nMarcus: hi! yeah let's do it\nMarcus: 9pm?\nMaverick: Great. See you then!\nMarcus: see you!",
+    "summary": "Maverick and Marcus will meet on Skype today at 9pm.",
+    "speakers": [
+      "Maverick",
+      "Marcus"
+    ],
+    "n_turns": 5,
+    "n_words": 24,
+    "structured": {
+      "summary": "Maverick and Marcus will meet on Skype today at 9pm.",
+      "participants": [
+        "Maverick",
+        "Marcus"
+      ],
+      "key_points": [
+        "Maverick asks Marcus for a Skype call today"
+      ],
+      "decisions": [
+        "Skype call today at 9pm"
+      ],
+      "action_items": [
+        {
+          "owner": "Maverick",
+          "task": "Skype call with Marcus",
+          "due": "today at 9pm"
+        }
+      ]
+    }
+  },
+  {
+    "id": "13828924",
+    "dialogue": "Felicity: Hi, Gene. Have you seen this Polish movie?\nGene: What Polish movie?\nFelicity: It's called Cold War. Nominated for Oscars.\nGene: No, I wouldn't mind though.\nFelicity: Let's go tonight, the show is at 8.\nGene: Cool. Pick you up at 7:30.",
+    "summary": "Gene will pick up Felicity at 7.30 to watch an Oscar-nominated Polish movie Cold War at 8.",
+    "speakers": [
+      "Felicity",
+      "Gene"
+    ],
+    "n_turns": 6,
+    "n_words": 43,
+    "structured": {
+      "summary": "Gene will pick up Felicity at 7.30 to watch the Oscar-nominated Polish movie Cold War at 8.",
+      "participants": [
+        "Felicity",
+        "Gene"
+      ],
+      "key_points": [
+        "Felicity suggests the Polish movie Cold War, nominated for Oscars",
+        "Gene has not seen it and agrees to go"
+      ],
+      "decisions": [
+        "They will see the 8 pm show tonight"
+      ],
+      "action_items": [
+        {
+          "owner": "Gene",
+          "task": "Pick up Felicity",
+          "due": "tonight at 7:30"
+        }
+      ]
+    }
+  },
+  {
+    "id": "13818963",
+    "dialogue": "Kit: Back. Sry.\nAmanda: NVM! Gossip! Now!\nKit: Fine ;) ur needy ;)\nGale: Kit! Pls!\nKit: You know Jake, the freshman?\nAmanda: Which one is it?\nGale: Tall, broad shoulders, nice lips, deep, blue eyes, veeery handsome\nAmanda: Oh! That one! Half the school is in luv with him!\nKit: Ik! And have gossip about him! A little bird told me he's got a sweetheart ;)",
+    "summary": "Half the school is in love with Jake.",
+    "speakers": [
+      "Kit",
+      "Amanda",
+      "Gale"
+    ],
+    "n_turns": 9,
+    "n_words": 67,
+    "structured": {
+      "summary": "Kit, Amanda and Gale gossip about Jake, a handsome freshman; Kit heard he has a sweetheart.",
+      "participants": [
+        "Kit",
+        "Amanda",
+        "Gale"
+      ],
+      "key_points": [
+        "Half the school is in love with Jake",
+        "Kit heard Jake has a sweetheart"
+      ],
+      "decisions": [],
+      "action_items": []
+    }
+  }
+]

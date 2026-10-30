@@ -1,0 +1,563 @@
+[
+  {
+    "id": "13862919",
+    "dialogue": "Ashleigh: Looks like we're going to the cinema!! \nAshleigh: <file_gif>\nPeter: You got the job??\nAshleigh: I got hte job! :D\nPeter: <file_gif>\nAshleigh: <file_gif>",
+    "summary": "Ashleigh got the job.",
+    "speakers": [
+      "Ashleigh",
+      "Peter"
+    ],
+    "n_turns": 6,
+    "n_words": 25
+  },
+  {
+    "id": "13817819",
+    "dialogue": "Emily: shit, I'm waiting to see my doctor and you won't believe who's waiting with me\nEmily: <file_gif>\nAdam: who then?\nEmily: a nun and a blind crazy man\nEmily: it feels spooky\nAdam: haha XD",
+    "summary": "Emily is at a doctor's office. There is a nun and a blind crazy man waiting as well.",
+    "speakers": [
+      "Emily",
+      "Adam"
+    ],
+    "n_turns": 6,
+    "n_words": 36
+  },
+  {
+    "id": "13729679",
+    "dialogue": "Harris: How are U?\nLena: Fine, U?\nHarris: Been better.\nLena: ?\nHarris: My friend Aoki died yesterday.\nLena: O No!\nHarris: Yeah.\nLena: What happened?\nHarris: Not sure yet. Thinking the worst...\nLena: O how awful!\nHarris: Yes.\nLena: You just never know.\nHarris: True.\nLena: Had you seen her lately?\nHarris: Not for a few months. She lives in Michigan.\nLena: Oh, that's far.\nHarris: Not too far but far enough.\nLena: Right.\nHarris: Got to go, mom's calling.\nLena: K bi. Feel better!\nHarris: K will do",
+    "summary": "Harris' friend, Aoki, who lives in Michigan, died yesterday. Harris hasn't seen her for a few months.",
+    "speakers": [
+      "Harris",
+      "Lena"
+    ],
+    "n_turns": 21,
+    "n_words": 90
+  },
+  {
+    "id": "13680110",
+    "dialogue": "Flo: OMG, I can't get into the salon until the 6th!\nGina: What? Why?\nFlo: They're just too busy. I'm going to be gray! LOL!\nGina: Get you a touch-up kit at Tesco!\nFlo: Gonna have to!",
+    "summary": "Flo cannot get an appointment at the salon until the 6th. Flo worries she's going to be gray. Flo will have to get a touch-up kit at Tesco.",
+    "speakers": [
+      "Flo",
+      "Gina"
+    ],
+    "n_turns": 5,
+    "n_words": 37
+  },
+  {
+    "id": "13611749",
+    "dialogue": "Alex: Hon, could you buy some milk?\nMartin: You kiddin me, I just bought two yesterday\nAlex: Well, I have nothing for my defense, I'm just craving milk lately:D\nMartin: You're lucky that I love you, two milks coming up in couple of hours, I gotta finish the project\nAlex: You are my hero!",
+    "summary": "Martin will get Alex two bottles of milk after he finishes the project.",
+    "speakers": [
+      "Alex",
+      "Martin"
+    ],
+    "n_turns": 5,
+    "n_words": 54
+  },
+  {
+    "id": "13729722",
+    "dialogue": "John: Ela i am coming in 10 mins please give me my walle outside t i forgot it\nEla: yes just saw it when you are here call me\nJohn: but your phone is busy thats why i messaged keep it free please i am getting late\nEla: oh yes was talking to mom ... its free now\nJohn: ok",
+    "summary": "John forgot his wallet. He wants Ela to give it to him outside in 10 minutes.",
+    "speakers": [
+      "John",
+      "Ela"
+    ],
+    "n_turns": 5,
+    "n_words": 60
+  },
+  {
+    "id": "13816899",
+    "dialogue": "Kaya: We have been looking for you in Library\nClay: I am the class room\nKaya: Be right there",
+    "summary": "Kaya is looking for Clay, who is in the classroom.",
+    "speakers": [
+      "Kaya",
+      "Clay"
+    ],
+    "n_turns": 3,
+    "n_words": 19
+  },
+  {
+    "id": "13829438",
+    "dialogue": "Rachel: I'm at the hospital, my aunt was in an accident...\nJessica: oh my God, is she alright?!\nRachel: Yes, she's bruised but she's fine\nRachel: Thank God...\nJessica: I'm so sorry, what happened?\nRachel: Some jackass was speeding and didn't see the red light...\nJessica: Did they catch him?\nRachel: Yes, he's gonna pay for the rehabilitation\nJessica: Better than nothing I suppose\nJessica: Give you aunt a hug from me, please (a light one :D)\nRachel: I will, thanks :*",
+    "summary": "Rachel's aunt had an accident and she's in hospital now. She's only bruised. The perpetrator of the accident is going to pay for the rehabilitation.",
+    "speakers": [
+      "Rachel",
+      "Jessica"
+    ],
+    "n_turns": 11,
+    "n_words": 82
+  },
+  {
+    "id": "13681924",
+    "dialogue": "Sophia: I'm sorry\nMason: It's fine\nSophia: Ok...If u was there, I would give you a hot kiss for apologize\nMason: Hahaha. You still send me a photo one\nSophia: What photo?\nMason: Kiss photo. Haha\nSophia: Hehe I sent u already such a photo\nMason: Another one wouldn't hurt\nSophia: Maybe later :) When I take a shower and look good\nMason: And who says you don't look good now ?\nSophia: Me\nMason: Let me be the judge of that\nSophia: No\nMason: I'll still love you the same. Whether you have make up or not\nSophia: Hehe but I don't  want u to see me when I do not look good\nMason: You must\nSophia: I must what?\nMason: Send me the kiss now\nSophia: Haha\nMason: Doesn't matter how you look, you'll still look good to me\nSophia: Hahah\nSophia: <file_photo>",
+    "summary": "Sophia apologizes to Mason. She sends him a kiss photo on his request.",
+    "speakers": [
+      "Sophia",
+      "Mason"
+    ],
+    "n_turns": 22,
+    "n_words": 145
+  },
+  {
+    "id": "13814888",
+    "dialogue": "Adam: it was me who called u\nAdam: call me back or text me when u can;-)\nTina: sorry, I'm still at work..\nTina: so many pple today:/ :/\nTina: dunno what time I can leave and actually my phone is dying...\nAdam: I see, u can call me once you're back home, I won't be sleeping until late\nTina: ok, and if it's really late then I'll call u 2morrow\nAdam: but don't do it before 9!;-)\nTina: sure thing;-)",
+    "summary": "Adam called Tina. She is at work. Her cell's battery's low. She will cal Adam later in the evening or tomorrow after 9 am.",
+    "speakers": [
+      "Adam",
+      "Tina"
+    ],
+    "n_turns": 9,
+    "n_words": 81
+  },
+  {
+    "id": "13820547",
+    "dialogue": "Olafur: are we doing anything for New Year's Eve?\nNathalie: I was thinking about something classy, like opera or sth like that\nZoe: how much does it cost?\nOlafur: opera is not for me\nNathalie: so what do you propose?\nNathalie: it's 100$ \nOlafur: I was thinking about partying somewhere\nNathalie: partying sounds fun, as long as it will be classy\nZoe: <file_link>\nZoe: Breakfast at Tiffany's party sounds classy\nOlafur: <file_link> \nOlafur: is it classy enough?\nNathalie: :O\nNathalie: this club is AMAZING\nZoe: whoa\nNathalie: we'll going to Soho then\nOlafur: we just need to hurry up and buy some tickets soon\nZoe: sure",
+    "summary": "Nathalie, Olafur and Zoe are planning the New Year's Eve. Nathalie wants something classy. Olafur doesn't like opera. They want to go to the Breakfast at Tiffany's party in Soho.",
+    "speakers": [
+      "Olafur",
+      "Nathalie",
+      "Zoe"
+    ],
+    "n_turns": 18,
+    "n_words": 106
+  },
+  {
+    "id": "13830106",
+    "dialogue": "Bella: It's valentine's day!😁😁😁\nAria: For somebody without bf today is kinda miserable day.....😢😢\nBella: There are a lot of vendors selling roses on the street here.\nBella: <file_photo>\nAria: <file_gif> \nBella: hahahahahahaha!! That looks SO SAD! :'‑(:'‑(:'‑(\nAria: I feel like the weather is colder than it really is. How's the weather there?\nBella: Here? it's 3 degree today. Wow! Even coffee shops are all decorated with all the heart-shaped balloons.\nBella: <file_photo>\nAria: Here everywhere just chocolate. :‑/ :‑/Of course it isn't related to me at all. :‑/:‑/\nBella: Only shops seems to get money.\nAria: What's your plan?\nBella: Maybe I will order some pizza home. (Sounds not that fun. right?) When will you come to Warsaw?\nAria: As soon as I quit, I will fly to you.😑😑 For now what I only hope is to leave work at 6. :‑|:‑|:‑|:‑|\nBella: This year I will probably go to Korea to get regular checkup. \nAria: Good. Take care there.\nBella: Make bf asap and visit us together.😝😝😝 You too!\nAria: I gotta go. Ttyl",
+    "summary": "It's Valentine's day. Bella plans to order some pizza home. Aria will come to Warsaw as soon as she quits. This year Bella will probably go to Korea to get regular checkup.",
+    "speakers": [
+      "Bella",
+      "Aria"
+    ],
+    "n_turns": 18,
+    "n_words": 177
+  },
+  {
+    "id": "13611822",
+    "dialogue": "Jaya: Hello Ravi, I haven't seen your mother in the club for almost 4 months. Is she fine?\nRavi:- She is not keeping well these days.\nJaya: so sorry to hear that, what happened?\nRavi: She has been suffering from knee pain for almost 5 years now and the doctor has asked her to restrict movement.\nJaya: Any specific reason for the pain?\nRavi: Its probably arthritis. The doctor said that it can be controlled, but not cured completely.\nJaya: Oh, she had always maintained a healthy lifestyle, I wonder how this happened.\nRavi: She did have mild ache in her knees for the past few years but had been ignoring it.\nJaya: Did you try naturopathy?\nRavi: We tried almost everything.\nJaya: Your mother is a strong lady. She never gives up so easily.\nRavi: She is still the same, however abiding by the doctor’s advice she prefers to stay at home most of the time.\nJaya: Please ask her to take care and start feeling better soon. \nRavi: Thanks. I'll pass your wishes to her.",
+    "summary": "Jaya hasn't seen Ravi's mum for 4 months in the club. Ravi's mum has been suffering from knee pain for 5 years. Ravi's mum stays at home following doctor's advice. Ravi will pass Jaya's wishes to his mother.",
+    "speakers": [
+      "Jaya",
+      "Ravi"
+    ],
+    "n_turns": 14,
+    "n_words": 177
+  },
+  {
+    "id": "13728129",
+    "dialogue": "Clara: Did you notice that weird smell at Kasia's place last night?\nRon: YES!!!!!! I didn't want to say anything about it, though. I didn't want to be rude.\nClara: I think it was her 21 cats roaming around lol\nRon: lol don't say that, those cats were cute.\nClara: so what? they can still smell \nRon: i think it was her sleazy boyfriend\nClara: lol you're bad\nRon: jk\nClara: in all honesty I don't know what it was.\nRon: i guess we'll never know",
+    "summary": "Clara and Ron are wondering what that weird smell at Kasia's place last night was.",
+    "speakers": [
+      "Clara",
+      "Ron"
+    ],
+    "n_turns": 10,
+    "n_words": 86
+  },
+  {
+    "id": "13864532",
+    "dialogue": "Daniel: have you guys played DA?\nMary: which one?\nDaniel: Inquisition\nMary: damn yes\nMary: love it to bits - team Dorian <3\nLucas: is it any good? I played just DA II\nMary: is it any good?! it's fucking brilliant!!!\nMary: Dan, are you playing?\nDaniel: just started and I'm not sure, trying to get used to the mechanics\nMary: you have to give it a go, I was sceptical at first, but... omg, wait for Dorian\nLucas: Is it better than 2?\nMary: oh yes",
+    "summary": "Mary has played DA Inquisition. Lucas has played DA II. Daniel started playing DA Inquisition.",
+    "speakers": [
+      "Daniel",
+      "Mary",
+      "Lucas"
+    ],
+    "n_turns": 12,
+    "n_words": 87
+  },
+  {
+    "id": "13828110",
+    "dialogue": "Rita: I need some info on you client.\nHelen: Which one?\nRita: Salvage Industries.\nHelen: Yeah? What do you need?\nRita: What's their major business.\nHelen: They are into waste disposal.\nRita: I thought so.\nRita: You think they are legit.\nHelen: What do you mean?!\nHelen: Of course, they are legit.\nRita: Got a favor to ask. Can you double check if they have no PR problems?\nHelen: I don't think so. But I'll check it for you.\nRita: You are a dear, Helen.\nHelen: I sure am:)",
+    "summary": "Helen will do Rita a favour. She will do the research on Salvage Industries to find out if they have any pubic relations problems.",
+    "speakers": [
+      "Rita",
+      "Helen"
+    ],
+    "n_turns": 14,
+    "n_words": 89
+  },
+  {
+    "id": "13815437",
+    "dialogue": "Caroline: I think his mother doesn't like me...;-( :-( \nKate: how come??\nCaroline: I just see it in her eyes...\nKate: any example?\nCaroline: I just feel it... \nCaroline: hard to give any example.\nCaroline: I'm his first gf and she's jelous...\nKate: what??? u r his first gf??\nKate: how old is he??? o_O ???\nCaroline: 26 but he's a nerd.\nCaroline: he used to spend all the time at home..\nKate: so he lives at home with mummy?? LOL\nCaroline: yeah.. mummy and gramma\nKate: fuck, really??\nKate: and u think he's normal?\nCaroline: he's an introvert...\nCaroline: it's a big house..\nKate: but has he ever lived somewhere else?\nKate: u know shared flat, erasmus?\nCaroline: nope...\nKate: he's really weird..\nCaroline: he's just a nerd, but v.intelligent!\nCaroline: w8 , he's writing sth, will text u l8er.\nKate: ok",
+    "summary": "Kate believes her boyfriend's mother dislikes her. He is a nerd who lives and has always lived with his mother and grandmother.",
+    "speakers": [
+      "Caroline",
+      "Kate"
+    ],
+    "n_turns": 24,
+    "n_words": 143
+  },
+  {
+    "id": "13864921",
+    "dialogue": "Jeff: Do you know guys anything about the agreement?\nVladimir: the most important is that they decided it's neither a sea nor a lake\nVladimir: so it will have a special legal status\nTanya: and they will completely divide the seabed up\nJeff: sure, it's rich in resources\nDonald: yeah, mostly gas and oil\nVladimir: and \"between 80-90% of the world's caviar is sourced from the Caspian\"!!!\nJeff: hahaha, right!",
+    "summary": "In the agreement it was decided that it's neither a sea nor a lake and it will have a special legal status. They will also completely divide the seabed up. It's rich in resources, mostly gas and oil.",
+    "speakers": [
+      "Jeff",
+      "Vladimir",
+      "Tanya",
+      "Donald"
+    ],
+    "n_turns": 8,
+    "n_words": 70
+  },
+  {
+    "id": "13828739",
+    "dialogue": "Kane: have you heard the new 30 seconds to mars album?\nShannon: no, is it good?\nKane: you should so check it out\nShannon: ok thanks for the recommendation\nKane: no prob",
+    "summary": "Kane recommends the new 30 Seconds to Mars album to Shannon.",
+    "speakers": [
+      "Kane",
+      "Shannon"
+    ],
+    "n_turns": 5,
+    "n_words": 32
+  },
+  {
+    "id": "13729058",
+    "dialogue": "Finn: Hey\nZadie: Hi there! What's up?\nFinn: All fine. You? \nZadie: Not bad, thanks \nFinn: Look, I was thinking of going to this neighborhood called Elephant and Castle tomorrow, it's apparently full of Latin American stuff. Fancy joining? \nZadie: Sure! But what's \"stuff\"? 😂\nFinn: lol So apparently it's a place were random people from \"Latin America\" (meaning fuck knows which countries) started running small businesses and restaurant, and a nice little community was formed\nZadie: Oh cool \nFinn: Then capitalism came and it's all going to be demolished soon, so it's like the last chance to go\nZadie: What a shame :( Yeah, I haven't had Latin American 😂 food for ages so I'm totally up for it\nFinn: Can't wait to taste this cuisine of unspecified Latino origin lol\nZadie: 😂😂😂\nFinn: But we can specify time and place if and only if you wish \nZadie: I might be tempted to lol I'd say early evening, 2-ish?\nFinn: Yeah, that's fine by me. So most of the places we want to visit are in this Elephant and Castle shopping centre. Shall I see you at the main entrance, wherever that is \nZadie: 2 o'clock at unspecified main entrance then? Sounds good to mw\nFinn: Yer\nZadie: Cool, see you there! And thanks so much for remembering about me 💜💜💜\nFinn: Thanks for saying yes to such an ill-defined plan lmao \nZadie: Ha ha You know I love those\nFinn: See you tomorrow then \nZadie: Yep Call me if you get lost\nFinn: I will I will 🤙 byeeee \nZadie: Toodles",
+    "summary": "Finn and Zadie are going to Elephant and Castle tomorrow at 2. They will meet at the main entrance.",
+    "speakers": [
+      "Finn",
+      "Zadie"
+    ],
+    "n_turns": 24,
+    "n_words": 263
+  },
+  {
+    "id": "13828949",
+    "dialogue": "Catherine: Hi Jake, last week I applied for an accounting position @ Pandora.\nJake: Hey Cathy! Really? That's great!\nCatherine: R u still working there?\nJake: I sure am. It's already been 5 yrs.\nCatherine: Time flies. So I take it ur satisfied?\nJake: I am, I rarely think about changing companies. \nCatherine: Does the company offer possibilities of personal development & promotion?\nCatherine: I mean is there a clear career path?\nJake: Yup, that's the main pro of this place & the benefits.\nJake: I was promoted twice during these 5 yrs & the salary increase with each promotion is quite significant.\nCatherine: That's good to hear. Most companies 2day are implementing cost saving policies & the employees are the ones who suffer.\nCatherine: I mean at my current workplace u can only count on inflation salary increases. So u barely see the difference on ur paycheck.\nJake: That's what I hear from most of my friends. It's a tough time 4 employees on the market nowadays.\nJake: 4 now our company is still dynamically expanding. \nCatherine: And how about the benefits u mentioned?\nJake: The company partially finances language & accounting courses.\nJake: There's also a yearly bonus that depends on your achievements and private healthcare.\nCatherine: That sounds like a dream :D Your HR dept. gave me a call yesterday and invited me to an interview on Monday.\nJake: That's great! I'll keep my fingers crossed :)\nCatherine: Thanks Jake :) Is there anything I should prepare/review before the interview?\nJake: Well I think it would be beneficial to know some facts about the company.\nJake: You can find them on the official website, in the \"about us\" section:  <file_other> \nCatherine: OK, I'll definitely take a look.\nJake: And they may ask u some Qs about accounting principles, the basics. But I mean that won't be a problem 4 u.\nJake: I remember u graduated with honours from uni.\nCatherine: That's true. :) I'm a bit nervous though.\nJake: There's no need to be. Give me a call after the interview. Good luck!\nCatherine: Thanks. TTYS!",
+    "summary": "Catherine applied for an accounting position at Pandora. Jake has been working there for 5 years. This job offers a clear career path and benefits. Jake got promoted twice with salary increase. Catherine will have an interview on Monday.",
+    "speakers": [
+      "Catherine",
+      "Jake"
+    ],
+    "n_turns": 28,
+    "n_words": 349
+  },
+  {
+    "id": "13730138",
+    "dialogue": "Nathan: i want to buy myself a bike in spring\nAubrey: that's great but where are you gonna keep it? Your apartment is so small\nNathan: i was thinking of hanging it on the wall, there are some special hooks\nAubrey: you can always keep it in the hallway\nNathan: i don't want to, people who do that annoy me, it's hard to walk around with all these bikes striped to the handrails\nAubrey: i agree... didn't think about that\nNathan: yeah, well I also got a stationary bike so I can be in shape during winter :D\nAubrey: really? I am so proud of you!!\nNathan: ye, I do like 25 kilometers everyday\nAubrey: that's a lot!\nNathan: my goal for the summer is 100 kilometers\nAubrey: fingers crossed!",
+    "summary": "Nathan is planning on buying a bike in spring. He will probably store the bike on some special hooks because his apartment is small. Nathan has also bought a stationary bike to keep fit.",
+    "speakers": [
+      "Nathan",
+      "Aubrey"
+    ],
+    "n_turns": 12,
+    "n_words": 130
+  },
+  {
+    "id": "13730863",
+    "dialogue": "Taylor: Tomorrow, 8 PM, my house\nHarry: Lol, what’s up?\nTaylor: My parents are away, 10 people confirmed already :D\nHarry: Im sooo in\nTaylor: You better, you’d miss the party of the year!",
+    "summary": "Harry will go to Taylors party tomorrow at 8pm.",
+    "speakers": [
+      "Taylor",
+      "Harry"
+    ],
+    "n_turns": 5,
+    "n_words": 34
+  },
+  {
+    "id": "13681010",
+    "dialogue": "Melody: did you get your computer fixed yet?\nPeggy: no, im spending a lot of time using the library computers.\nMelody: do they know whats wrong with it? \nPeggy: might be something with the circuit board. they hope to have an answer tomorrow\nMelody: thats pretty serious. might be cheaper just to buy a new one\nPeggy: thats true. well see.\nMelody: if you need to get a new one, i highly recommend the mac model that i have\nPeggy: ok, good to know. i'll write if i have any questions\nMelody: youre probably due for a new one anyway, no?\nPeggy: you're right. 5 years is a long time to own one.\nMelody: yes, thats ancient by laptop standards\nPeggy: ok. i might just not bother getting it repaired after all.\nMelody: sounds like a good idea",
+    "summary": "Melody's 5-year-old laptop is broken. Tomorrow she'll know what's wrong. She won't be repairing it, because her laptop is too old. Instead, she'll buy a new one.",
+    "speakers": [
+      "Melody",
+      "Peggy"
+    ],
+    "n_turns": 13,
+    "n_words": 138
+  },
+  {
+    "id": "13809974",
+    "dialogue": "Ivan: hey eric\nEric: yeah man\nIvan: so youre coming to the wedding\nEric: your brother's\nIvan: yea\nEric: i dont know mannn\nIvan: YOU DONT KNOW??\nEric: i just have a lot to do at home, plus i dont know if my parents would let me\nIvan: ill take care of your parents\nEric: youre telling me you have the guts to talk to them XD\nIvan: thats my problem\nEric: okay man, if you say so\nIvan: yea just be there \nEric: alright",
+    "summary": "Eric doesn't know if his parents let him go to Ivan's brother's wedding. Ivan will talk to them.",
+    "speakers": [
+      "Ivan",
+      "Eric"
+    ],
+    "n_turns": 14,
+    "n_words": 85
+  },
+  {
+    "id": "13729106-1",
+    "dialogue": "Jill: So bored!\nNate: Well... can't help you there\nNate: Still at work\nJill: ugh I need to find a job\nJill: I've watched everything on youtube already\nNate: Doubt it :P I'll call you when I get off work",
+    "summary": "Jill is bored and has watched YouTube. Nate is at work and will call Jill when he finishes it.",
+    "speakers": [
+      "Jill",
+      "Nate"
+    ],
+    "n_turns": 6,
+    "n_words": 40
+  },
+  {
+    "id": "13829783",
+    "dialogue": "Diane: how long do you have to work tonight?\nRoss: about 2 hours, why?\nDiane: I just wanted to do something maybe\nRoss: I think I'll be worn out after all hat work, baby\nDiane: We can just chill at home, don't worry\nDiane: I just wanted to prepare \nRoss: OK\nRoss: Then just to be safe let's say it will take me 3 hours\nDiane: but you just said 2!\nRoss: Damn it, Diane, don't start again\nDiane: what am I starting?!\nDiane: you're impossible\nRoss: can't you understand that this is important to me?!\nRoss: my career depends on it!\nDiane: Well, if your career is the most important thing in the world then I wouldn't want to disturb!\nRoss: ...",
+    "summary": "Diane is not happy with Ross prioritising work over spending time with her.",
+    "speakers": [
+      "Diane",
+      "Ross"
+    ],
+    "n_turns": 16,
+    "n_words": 123
+  },
+  {
+    "id": "13681429",
+    "dialogue": "Cass: Hi darling, did you get your birthday card and money on time?\nJordan: hello Nanna! Thanks for the £20. Sorry I didn't ring you before.\nCass: you still like Thomas the Tank engine don't you? I picked it specially.\nJordan: Yes, Nanna. I will always love him! Next time, get me a football one or something. I mean, I'm 11 now!\nCass: I know, you are so grown up. Love you xxxxx\nJordan: Love you, Nan xx",
+    "summary": "Cass sent her grandson Jordan £20 and a birthday card for his 11th birthday.",
+    "speakers": [
+      "Cass",
+      "Jordan"
+    ],
+    "n_turns": 6,
+    "n_words": 78
+  },
+  {
+    "id": "13731254",
+    "dialogue": "Sam: Are you working tomorrow?\nCarla: No, it's my day off\nSam: I'm free in the afternoon, do you fancy meeting up?\nCarla: Yeah, sure\nSam: Ok, great! Shall we go to Meanwood?\nCarla: Ok, there's that cafe there that does the yummy cakes. Meet you at 2?\nSam: Yes - looking forward to it!\nCarla: See you tom! xx",
+    "summary": "Carla has a day off tomorrow. She will meet Sam in Meanwood in a cafe at 2 pm.",
+    "speakers": [
+      "Sam",
+      "Carla"
+    ],
+    "n_turns": 8,
+    "n_words": 60
+  },
+  {
+    "id": "13829456",
+    "dialogue": "Claire: hey \nClaire: where's this conference about relations at school?\nAaron: hey\nAaron: it's in the teaching training thing\nClaire: oh, in Sesame Street?\nAaron: yeah exactly\nClaire: thanks! \nClaire: are you going? i mean apart from your own lecture ;D\nAaron: haha yeah i'm giving two, actually\nAaron: and i'm kind of a host there as well \nAaron: so guess i'll be looking to coffee, biscuits etc\nClaire: i see\nAaron: i was thinking i could go to Jo's lecture\nClaire: Jo's... is it the one about stress?\nAaron: no, that's Joe ;D Jo is having a workshop on teamwork\nClaire: ah, this one. yeah looks interesting\nAaron: i know her, she's a really good coach\nClaire: i was thinking maybe mindfullness...\nAaron: yeah definitely!! if you haven't been to any mindfullness workshops then it's a must!\nAaron: i've taken it in Berlin last year, with the same guy\nAaron: it was amazing, life-changing i'd say\nClaire: sounds wonderful\nClaire: one can easily tell you're one of the organisers ;D\nAaron: hahah yeah but we did choose the best topics and presenters, believe me :D\nAaron: we've checked out all those people and learnt from them and yeah, they're the best ;)\nClaire: ok ok i'm signing up :D see you there, during the breaks at least;)\nAaron: ok bye bye;)",
+    "summary": "Aaron will give two lectures during the conference about relations at school at the Sesame Street. Claire will participate in mindfulness workshop.",
+    "speakers": [
+      "Claire",
+      "Aaron"
+    ],
+    "n_turns": 27,
+    "n_words": 222
+  },
+  {
+    "id": "13681870",
+    "dialogue": "Miley: don't want to go to work tomorrow!\nMiley: wanna sleep!!!\nMiley: need some rest :(\nAaron: know what u feelin\nAaron: really want some holiday already\nMiley: :(\nAaron: fighting girl!",
+    "summary": "Miley is tired and doesn't want to work tomorrow.",
+    "speakers": [
+      "Miley",
+      "Aaron"
+    ],
+    "n_turns": 7,
+    "n_words": 32
+  },
+  {
+    "id": "13818511",
+    "dialogue": "Joanne: What are your plans for the holidays?\nEvelyn: Nothing. I’ll stay at home and rest.\nJoanne: You must be exhausted after the past few weeks\nEvelyn: It’s been hectic\nJoanne: I’m going back home.\nEvelyn: To France?\nJoanne: Yes. Not that I want to go…\nEvelyn: Why? You always liked spending Christmas with your family.\nJoanne: I did. But my parents separated a few months ago\nJoanne: It is still pretty tense…\nEvelyn: I’m sorry to hear that\nJoanne: My dad left my mum for his secretary\nJoanne: Such a cliché \nJoanne: My mum is devastated\nJoanne: So I’m basically going to cheer her up \nJoanne: It’s really hard for her now\nJoanne: For me it’s also not easy\nEvelyn: I can imagine!\nEvelyn: If you want to bring your mum over here we could spend Christmas together.\nJoanne: Thanks, that’s really sweet. But I don’t think she’s in a condition for that. She’s been very depressive lately.",
+    "summary": "Joanne is going to go back home to France for the holidays. She's going to cheer her mum up because her parents separated a few months ago. Evelyn offers Joanne to spend Christmas together if she brings her mum over here.",
+    "speakers": [
+      "Joanne",
+      "Evelyn"
+    ],
+    "n_turns": 20,
+    "n_words": 159
+  },
+  {
+    "id": "13728369-1",
+    "dialogue": "Nestor: I'm thinking of buying a new laptop\nNestor: And it seems that now is a perfect time for it as Black Friday is coming\nOlaf: Hahaha\nNestor: I haven't said anything funny, what's wrong with you\nOlaf: Everything's fine with me, you're just being silly\nNestor: Why, cuz I want to save some money buying what I need when it's cheaper?\nNestor: Do you actually know what Blak Friday is about?\nOlaf: Of course I know\nOlaf: It's a cunningly contrived sales pitch\nOlaf: Prices are thought to be reduced but in fact they're the same or even higher...\nNestor: You're just repeating a stupid theory some people made up and try to convince others that it's based on facts\nOlaf: You're really naive...\nOlaf: <file_other>\nOlaf: Click on this link and see for yourself\nOlaf: This is one of the sites where people upload photos of the same product and its price 2 weeks before Black Friday and during the promotion\nNestor: And how do I know whether it's a reliable source or not?\nOlaf: Carry out your own investigation\nOlaf: Go and check prices of the chosen products when the promotion is still on and check them again when the promotion is over\nOlaf: Simple\nNestor: What if the laptop I want has been really cheaper and I'll miss a perfect deal?\nOlaf: Then I'll help you\nOlaf: I know a dude who sells almost new computers at very reasonable prices\nNestor: So ask him to send the offer of what he has in stock to me first\nNestor: If he can offer me a good deal, I'm going to the mall and starting investigation tomorrow\nNestor: Deal?\nOlaf: Deal!\nOlaf: I'll call or text him and ask to contact you.\nOlaf: I'm sure he'll help you and you'll appreciate my advice :-)\nNestor: We'll see about that",
+    "summary": "Nestor wanted to buy a laptop on Black Friday sales, but Olaf advise against it, as the prices in reality are not reduced. Nestor will check it if Olaf helps him to get a good deal from a guy he knows.",
+    "speakers": [
+      "Nestor",
+      "Olaf"
+    ],
+    "n_turns": 29,
+    "n_words": 311
+  },
+  {
+    "id": "13730987",
+    "dialogue": "Sara: Hey, are you free this Saturday?\nSara: I thought mayble you would like to help with the event we're organizing?\nVictor: Unfortunately I'm busy this Saturday...\nSara: Shame...\nVictor: Yeah, I know. Maybe if you let me know earlier, I might have changed my plans, but now it's too late.\nSara: Ok. Another time then :(",
+    "summary": "Victor cannot help Sara with the event they're organizing as he's busy this Saturday.",
+    "speakers": [
+      "Sara",
+      "Victor"
+    ],
+    "n_turns": 6,
+    "n_words": 57
+  },
+  {
+    "id": "13865384",
+    "dialogue": "Peadar: So who's coming for a drink later then??!\nClare: Oh lols soz I'm not in town\nAnnette: A drink?!!?!!\nPeadar: A drink!!!\nAnnette: I’m home sick soz huns\nAnnette: Got lung lurgy\nOli: Are people at Jesus bar now?\nJames: Heading to Jesus bar now! Come join :) turn left as you come into college\nAnne: Woops.. . Sorry guys I double booked myself!\nHelen: Yes! Jesus bar, from around 9.15 ish\nPeadar: Was that just a question oli😋 or did you mean... I'll join ye😁\nOli: I cycled and ran around the bar, but couldn't find anyone 😢\nClare: You cycled around the bar?\nOli: To the bar 😅\nHelen: 🙈😍😇",
+    "summary": "Annette is sick. James is going to the Jesus bar. Oli couldn't find anyone near the bar.",
+    "speakers": [
+      "Peadar",
+      "Clare",
+      "Annette",
+      "Oli",
+      "James",
+      "Anne",
+      "Helen"
+    ],
+    "n_turns": 15,
+    "n_words": 113
+  },
+  {
+    "id": "13680874",
+    "dialogue": "Tiffany: buy me a burger on your way home\nRailey: ok\nTiffany: thx, sis :)",
+    "summary": "Railey will buy Tiffany a burger.",
+    "speakers": [
+      "Tiffany",
+      "Railey"
+    ],
+    "n_turns": 3,
+    "n_words": 15
+  },
+  {
+    "id": "13730348",
+    "dialogue": "Susan: Will you be home tomorrow?\nRob: Why do you ask?\nSusan: We could have dinner together if you have time after work\nRob: Sure! Sounds great\nSusan: Fantastic! I will cook something special then!",
+    "summary": "Rob will be home tomorrow. Rob and Susan will have dinner together after Rob's work. Susan will cook something special.",
+    "speakers": [
+      "Susan",
+      "Rob"
+    ],
+    "n_turns": 5,
+    "n_words": 35
+  },
+  {
+    "id": "13829996",
+    "dialogue": "Carla: Hey\nCarla: how are you today?\nRaul: not too well\nCarla: what's wrong? did you sleep?\nRaul: it was a really crappy night\nRaul: and yesterday evening\nRaul: and today morning\nRaul: i started off with a fag\nRaul: i don't even know what triggered me off \nRaul: yesterday Jen had to go to a friend\nRaul: she'd broken up with her bf and Jen went to sit with her\nRaul: and she stayed for the night\nRaul: so i thought it's be a good evening just for myself\nRaul: but i was just so pissed off all the time\nRaul: and then i had those weird dreams of my uncle\nCarla: shit ;/ sounds awful\nRaul: yeah it was :/\nCarla: ;*",
+    "summary": "Raul's had a bad night and day.",
+    "speakers": [
+      "Carla",
+      "Raul"
+    ],
+    "n_turns": 18,
+    "n_words": 124
+  },
+  {
+    "id": "13728735",
+    "dialogue": "Jack: Cocktails later?\nMay: YES!!!\nMay: You read my mind...\nJack: Possibly a little tightly strung today?\nMay: Sigh... without question.\nJack: Thought so.\nMay: A little drink will help!\nJack: Maybe two!",
+    "summary": "Jack and May will drink cocktails later.",
+    "speakers": [
+      "Jack",
+      "May"
+    ],
+    "n_turns": 8,
+    "n_words": 33
+  },
+  {
+    "id": "13729529",
+    "dialogue": "Kelvin: Excuse me Miss. When do we sit for our CAT 2?\nNaheeda: Can we have it during the statistics class?\nKelvin: I don't think so because we will be having the statistics CAT.\nNaheeda: Okay it is up to you guys to choose the time then.\nKelvin: Okay. Wait I will talk with the other class members then I'll tell you their decision\nNaheeda: Okay then don't take too long.\nKelvin: Sure",
+    "summary": "Kelvin and the other class members will discuss the time for their CAT 2 and share their decision with Naheeda soon.",
+    "speakers": [
+      "Kelvin",
+      "Naheeda"
+    ],
+    "n_turns": 7,
+    "n_words": 73
+  },
+  {
+    "id": "13682217",
+    "dialogue": "Guido: Hi, Agata, are you OK?\nAgata: Hi, Guido. Sure, I'm OK :) And you?\nGuido: I just have trouble understanding your posts on Facebook. \nAgata: Really?\nGuido: Maybe it's because I don't know anything about Java? :(\nAgata: Thanks for the concern :) All my Twitter posts go to my Facebook account. I think I might change that! \nGuido: Don't worry :)\nAgata: By the way, it's JavaScript, not Java. Except for the name they really have not much in common :)\nGuido: Sounds like Chinese to me :(\nAgata: :)\nGuido: It's hard to understand the concept :(\nAgata: Sorry. After just one month of coding I would be like plain English to you :P\nGuido: I can see that you enjoy it.\nAgata: I really do. Finally I found something interesting for me.\nGuido: And what about you husband? \nAgata: What about him?\nGuido: Doesn't he complain about your new job?\nAgata: Not at all! Why would he? \nGuido: So you don't speak to him in Chinese language? I mean in JavaScript language, hahahha",
+    "summary": "Agata has a new job, she's learning to code and she likes it. Guido doesn't understand her Facebook posts because he knows nothing about JavaScript.",
+    "speakers": [
+      "Guido",
+      "Agata"
+    ],
+    "n_turns": 19,
+    "n_words": 177
+  },
+  {
+    "id": "13821297",
+    "dialogue": "Ella: Hey my dear family, could i ask you to confrim that youre coming and if you have any dietary requirements through this link. I need this information for the catering company. HUgs <file_other>\nBarbara: Done!!!\nEva: <3\nBarbara: I flled out for mom too\nElla: I saw that\nBarbara: (Y)",
+    "summary": "Barbara and Eva described their dietary requirements in the website given by Ella.",
+    "speakers": [
+      "Ella",
+      "Barbara",
+      "Eva"
+    ],
+    "n_turns": 6,
+    "n_words": 51
+  },
+  {
+    "id": "13727549",
+    "dialogue": "Lesley: Can you please go on a walk with the dog when you get home?\nChloe: I don't know when I'm going to be home though.\nLesley: What do you mean? Doesn't school finish up at 3PM?\nChloe: Yes, but I was going to go to Megan's house tonight.\nLesley: Chloe, you didn't ask me if you could go. You cannot just assume that you are going. \nChloe: Mom, seriously. I already told her I was going to come over. \nLesley: Chloe, your dad has to work late tonight. No one is going to be home for a long time. \nLesley: Someone needs to come home and let her out. \nChloe: Mom, you always do this to me. \nLesley: I am not the one that wanted a dog. You are going to come home and let her out. \nLesley: And that's that. \nLesley: You can go out and see Megan afterwards. \nChloe: Ok. \nLesley: Thank you.",
+    "summary": "Somebody has to take the dog out. Chloe wants to go to Megan tonight and the father has to work late tonight. Chloe will have to come back home to let the dog out and then she can see Megan.",
+    "speakers": [
+      "Lesley",
+      "Chloe"
+    ],
+    "n_turns": 14,
+    "n_words": 156
+  },
+  {
+    "id": "13731140-1",
+    "dialogue": "Isabella: Hi Betty!\nIsabella: It was very nice to listen about your work yesterday. Thank you for sharing that!\nIsabella: If you wanted to do sth together, let me know. \nBetty: Thank you!",
+    "summary": "Isabella is grateful to Betty for sharing the information about her work yesterday. Isabella offers Betty her company, should Betty want to do something together.",
+    "speakers": [
+      "Isabella",
+      "Betty"
+    ],
+    "n_turns": 4,
+    "n_words": 33
+  },
+  {
+    "id": "13731166",
+    "dialogue": "Andy: Hello. I have had a good look and have done some tests on the mould in your spare bedroom upstairs and in the dinign room.\nBetty: Hello Andy. Thank you for that, what are your thoughts? \nAndy: I think it is caused by condensation, as most of the moist settles on and around the windows.\nBetty: Why is that?\nAndy: Those are the coldest areas and therefore where the moist in the warm air turns into water. On the windows its just water, on the walls the moist will allow mould to grow.\nBetty: So why is it all over the spare room walls, and all around the dining room? but not in other rooms?\nAndy: Probably because they have external walls which are cooler than internal walls.\nBetty: so why only that bedroom and not the other ones?\nAndy: I guess those rooms are most effected as the spare room is next to the bathroom and the dining room next to the kitchen.\nBetty: But why isnt there mould on the kitchen and bathroom itself then?\nAndy: I think that is because the kitchen doesn't have external walls and the bathroom has only one external wall and a fan in it. The difference when i measured it between internal wall and external wall is about 4 degrees.  \nBetty: Does that mean we need new double glazed windows or new wall insulation?\nAndy: Not necessarily. that would make a little difference but would still leave you with moist air in the house, so it would just settle somewhere else.  \nBetty: So what would you recommend?\nAndy: I would install a fan system, or PIV system, which would circulate air to dilute and take some moisture out of the air. It would be installed in your loft and be on continuously during day and night. \nBetty: That sounds good. would that be sufficient? \nAndy: If you buy a decent size it will be, but you would also need to treat your walls to get rid of the current mould. That will not go away by itself.\nBetty: OK, is this something your company can help with?\nAndy: It is indeed, we can repaint as well if you want. \nBetty: Good point. Could you please send me a detailed quote for the work via email?\nAndy: Of course, I will have that done by Friday. \nBetty: That would be great. And again, thanks for today!\nAndy: No problem, speak soon.",
+    "summary": "Betty's house has mould due to condensation. Andy will send her a quote for the work needed by Friday.",
+    "speakers": [
+      "Andy",
+      "Betty"
+    ],
+    "n_turns": 23,
+    "n_words": 409
+  },
+  {
+    "id": "13819098",
+    "dialogue": "Claire: Check this out :)))\nClaire: <file_other>\nMaria: !!\nNicole: Absolutely perfect for you!!\nClaire: I guess so\nClaire: But it could be a bit darker, cause this color is not very vivid\nNicole: Noooooo, I think this color is perfectly good for the bride\nMaria: And it's no that expensive :)))\nClaire: Yes, the price appeals to me xD\nNicole: You should order that dress\nNicole: I think you won't regret\nMaria: Don't hesitate, it's incredibly beauty!!\nClaire: Ok, if you say so :))",
+    "summary": "Claire is ordering her wedding dress, adviced by Maria and Nicole.",
+    "speakers": [
+      "Claire",
+      "Maria",
+      "Nicole"
+    ],
+    "n_turns": 13,
+    "n_words": 85
+  },
+  {
+    "id": "13829728",
+    "dialogue": "Janice: my son has been asking me to get him a hamster for his birthday\nJanice: should i?\nMartina: NO! NO! NO! NO! NO!\nMartina: i got one for my son and it stank up the whole house\nMartina: so don't do it!!!",
+    "summary": "Martina advises against getting a hamster.",
+    "speakers": [
+      "Janice",
+      "Martina"
+    ],
+    "n_turns": 5,
+    "n_words": 43
+  },
+  {
+    "id": "13829332",
+    "dialogue": "Mike: Do u have new John's number?\nAnn: No, u should ask Mary.\nMike: Ok, thank u :*",
+    "summary": "Mike will ask Mary for John's new number.",
+    "speakers": [
+      "Mike",
+      "Ann"
+    ],
+    "n_turns": 3,
+    "n_words": 18
+  },
+  {
+    "id": "13829710",
+    "dialogue": "Don: Hi Cindy. Have you made all arrangements?\nCindy: It's about today's meeting or your trip next week?\nDon: Both, I suppose:)\nCindy: You have meeting with management board today at 2 pm.\nDon: Where did you set it up?\nCindy: In our conference room.\nCindy: Catering will bring some tea, coffee and snacks.\nDon: That's good.\nDon: Did everybody got the agenda?\nCindy: Yep.\nDon: How did Andy react when he saw it?\nCindy: Can't say, really. Not sure if he even read it.\nDon: That's Andy all right.\nDon: And how about the trip.\nCindy: I've got your plane tickets and booked the hotel.\nDon: Which one?\nCindy: Hilton, as usual.\nDon: Perfect:=)\nCindy: But nobody is gonna pick you up at the airport. You'll have to get a cab.\nDon: I think, I can manage that;=)\nDon: Good job, Cindy. No idea, where I'd be without you.",
+    "summary": "Cindy has made arrangements for today's meeting at 2 pm in the conference room. She also organised flights and hotel for next week's trip. Don is appreciative.",
+    "speakers": [
+      "Don",
+      "Cindy"
+    ],
+    "n_turns": 21,
+    "n_words": 150
+  },
+  {
+    "id": "13611880",
+    "dialogue": "Joyce: Honey, can I take the car?\nKyle: No, I'm sorry.\nJoyce: Why not? How am I supposed to go get Harry?\nKyle: I've got to go to a mechanic. The car is making a weird noise.\nJoyce: Then can you get Harry on your way?\nKyle: I don't know, I'm already running late.\nJoyce: Am I supposed to go get him by bus? That's ridiculous.\nKyle: Fine, I'll get him.\nJoyce: Thank you.",
+    "summary": "Joyce wants to take Kyle's car to get Harry. Kyle is taking the car to a mechanic. Joyce refuses to get Harry by bus. Kyle agrees to pick Harry up.",
+    "speakers": [
+      "Joyce",
+      "Kyle"
+    ],
+    "n_turns": 9,
+    "n_words": 74
+  }
+]
