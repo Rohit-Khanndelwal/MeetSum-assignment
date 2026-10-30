@@ -1,0 +1,11 @@
+# Colab already ships torch, transformers, pydantic, pandas and matplotlib.
+torch
+transformers>=4.45
+accelerate
+datasets
+rank_bm25
+rouge_score
+pydantic>=2
+pandas
+matplotlib
+gradio
